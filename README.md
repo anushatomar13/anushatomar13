@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: **anushatomar913@gmail.com**
 
+[![@anushatomar13'sHolopin board](https://www.holopin.io/hacktoberfest2023/userbadge/cln5y7hyz36740fmgbizgkfwr)](https://www.holopin.io/userbadge/cln7go1gs41580gl8tuzqylmv)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anushatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushatomar" height="30" width="40" /></a>
